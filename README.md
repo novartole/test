@@ -1,3 +1,4 @@
 # test
 
-1 on remotely
+1 remotely
+1 locally
