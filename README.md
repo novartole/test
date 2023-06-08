@@ -2,7 +2,11 @@
 
 1 remotely
 1 locally
+
     more
 
-
 [just another]
+
+ moreover
+
+{merge conflict}
