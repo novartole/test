@@ -4,12 +4,16 @@
 1 locally
 
     more
+<<<<<<< HEAD
+=======
+2 to feature
+>>>>>>> 2742e15 (some changes to feature branch)
 
 [just another]
 
  moreover
 
-{merge conflict}asdasd
+asdasd
 1 on remotely
 
   more but another
